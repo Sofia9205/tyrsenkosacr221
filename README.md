@@ -12,5 +12,7 @@
 Для управления змейкой используйте клавиши стрелок влево и вправо
 при проигрыше следуйте указаниям на экране
 ## скриншоты
-![игра](image.png)
-![проигрыш](image-1.png)
+![змейка1](https://github.com/user-attachments/assets/374dd1f1-8658-454a-bdc9-659a44c2284e)
+![змейка2](https://github.com/user-attachments/assets/68d8de1e-01ab-4e3a-91dc-10e636b0b729)
+
+

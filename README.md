@@ -5,7 +5,7 @@
 требуется Python 3.
 У вас должна быть установлена библиотека pygame
 ```bash
-git clone git@github.com:Sofia9205/-.git
+git clone git@github.com:tyrsenkosacr221/-.git
 python3 -m pip install pygame
 python3 -m venv path/to/venv
 source path/to/venv/bin/activate

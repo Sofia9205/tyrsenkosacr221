@@ -4,6 +4,14 @@
 ## установка
 требуется Python 3.
 У вас должна быть установлена библиотека pygame
+```bash
+git clone git@github.com:Sofia9205/-.git
+python3 -m pip install pygame
+python3 -m venv path/to/venv
+source path/to/venv/bin/activate
+python3 -m pip install pygame
+python3 'play module.py'
+```
 ## правила 
 Игрок управляет змейкой, которая движется по игровому полю. 
 Змейка должна собирать еду (например, блоки), которая появляется на поле. Каждый раз, когда змейка съедает еду, она становится длиннее.
